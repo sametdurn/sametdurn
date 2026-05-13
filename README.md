@@ -38,13 +38,14 @@
 
 # 📊 GitHub Stats
 
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sametdurn&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sametdurn&theme=tokyonight" />
+</p>
+
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sametdurn&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sametdurn&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sametdurn&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sametdurn&theme=tokyonight&hide_border=true"/>
 
 </div>
 
