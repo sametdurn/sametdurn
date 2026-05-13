@@ -26,7 +26,7 @@
 
 ### Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,c,cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=cs,c,python,js" />
 </p>
 
 ### Tools
@@ -39,6 +39,8 @@
 # 📊 GitHub Stats
 
 <div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sametdurn&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sametdurn&theme=tokyonight)
 
