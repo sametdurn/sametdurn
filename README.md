@@ -12,13 +12,9 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/samet-duran">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" height="35"/>
-</a>
+<a href="https://linkedin.com/in/samet-duran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" height="35"/></a>&nbsp;
 
-<a href="https://sametdurn.github.io">
-  <img src="https://img.shields.io/badge/Visit%20Website-ff6b6b?style=for-the-badge&logo=firefox&logoColor=white"height="35"/>
-</a>
+<a href="https://sametdurn.github.io"><img src="https://img.shields.io/badge/Visit%20Website-ff6b6b?style=for-the-badge&logo=firefox&logoColor=white" height="35"/></a>
 
 </div>
 
